@@ -1,0 +1,40 @@
+Mono path[0] = 'C:/Users/MisbahAffan/Desktop/cuberrunner 32/cubrunner_Data/Managed'
+Mono path[1] = 'C:/Users/MisbahAffan/Desktop/cuberrunner 32/cubrunner_Data/Mono'
+Mono config path = 'C:/Users/MisbahAffan/Desktop/cuberrunner 32/cubrunner_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/MisbahAffan/Desktop/cuberrunner 32/cubrunner_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55069
+Multi-casting "[IP] 192.168.0.105 [Port] 55069 [Flags] 3 [Guid] 1535699341 [EditorId] 4244481514 [Version] 1048832 [Id] WindowsPlayer(MisbahAffan-PC) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55069]...
+PlayerConnection accepted from [192.168.0.105] handle:0x240
+Started listening to [0.0.0.0:55069]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56341
+PlayerConnection already initialized - listening to [0.0.0.0:55069]
+Player data archive not found at `C:/Users/MisbahAffan/Desktop/cuberrunner 32/cubrunner_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 45 Express Chipset Family (Microsoft Corporation - WDDM 1.1) (ID=0x2a42)
+    Vendor:   Intel
+    VRAM:     430 MB
+    Driver:   8.15.10.1749
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MisbahAffan\Desktop\cuberrunner 32\cubrunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MisbahAffan\Desktop\cuberrunner 32\cubrunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MisbahAffan\Desktop\cuberrunner 32\cubrunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MisbahAffan\Desktop\cuberrunner 32\cubrunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MisbahAffan\Desktop\cuberrunner 32\cubrunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MisbahAffan\Desktop\cuberrunner 32\cubrunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MisbahAffan\Desktop\cuberrunner 32\cubrunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MisbahAffan\Desktop\cuberrunner 32\cubrunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.074 seconds
+Platform assembly: C:\Users\MisbahAffan\Desktop\cuberrunner 32\cubrunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MisbahAffan\Desktop\cuberrunner 32\cubrunner_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.107075 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: d9c -> priority: 1 
+Waiting for finish
